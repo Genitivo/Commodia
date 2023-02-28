@@ -1,626 +1,628 @@
 [
-    {
-     "Forecast Date": "01\/01\/2015",
-     "WTI": 47.22,
-     "BRENT": 47.76
-    },
-    {
-     "Forecast Date": "02\/01\/2015",
-     "WTI": 50.58,
-     "BRENT": 58.1
-    },
-    {
-     "Forecast Date": "03\/01\/2015",
-     "WTI": 47.82,
-     "BRENT": 55.89
-    },
-    {
-     "Forecast Date": "04\/01\/2015",
-     "WTI": 54.45,
-     "BRENT": 59.52
-    },
-    {
-     "Forecast Date": "05\/01\/2015",
-     "WTI": 59.27,
-     "BRENT": 64.08
-    },
-    {
-     "Forecast Date": "06\/01\/2015",
-     "WTI": 59.82,
-     "BRENT": 61.48
-    },
-    {
-     "Forecast Date": "07\/01\/2015",
-     "WTI": 50.9,
-     "BRENT": 56.56
-    },
-    {
-     "Forecast Date": "08\/01\/2015",
-     "WTI": 42.87,
-     "BRENT": 46.52
-    },
-    {
-     "Forecast Date": "09\/01\/2015",
-     "WTI": 45.48,
-     "BRENT": 47.62
-    },
-    {
-     "Forecast Date": "10\/01\/2015",
-     "WTI": 46.22,
-     "BRENT": 48.43
-    },
-    {
-     "Forecast Date": "11\/01\/2015",
-     "WTI": 42.44,
-     "BRENT": 44.27
-    },
-    {
-     "Forecast Date": "12\/01\/2015",
-     "WTI": 37.19,
-     "BRENT": 38.01
-    },
-    {
-     "Forecast Date": "01\/01\/2016",
-     "WTI": 31.68,
-     "BRENT": 30.7
-    },
-    {
-     "Forecast Date": "02\/01\/2016",
-     "WTI": 30.32,
-     "BRENT": 32.18
-    },
-    {
-     "Forecast Date": "03\/01\/2016",
-     "WTI": 37.55,
-     "BRENT": 38.21
-    },
-    {
-     "Forecast Date": "04\/01\/2016",
-     "WTI": 40.75,
-     "BRENT": 41.58
-    },
-    {
-     "Forecast Date": "05\/01\/2016",
-     "WTI": 46.71,
-     "BRENT": 46.74
-    },
-    {
-     "Forecast Date": "06\/01\/2016",
-     "WTI": 48.76,
-     "BRENT": 48.25
-    },
-    {
-     "Forecast Date": "07\/01\/2016",
-     "WTI": 44.65,
-     "BRENT": 44.95
-    },
-    {
-     "Forecast Date": "08\/01\/2016",
-     "WTI": 44.72,
-     "BRENT": 45.84
-    },
-    {
-     "Forecast Date": "09\/01\/2016",
-     "WTI": 45.18,
-     "BRENT": 46.57
-    },
-    {
-     "Forecast Date": "10\/01\/2016",
-     "WTI": 49.78,
-     "BRENT": 49.52
-    },
-    {
-     "Forecast Date": "11\/01\/2016",
-     "WTI": 45.66,
-     "BRENT": 44.73
-    },
-    {
-     "Forecast Date": "12\/01\/2016",
-     "WTI": 51.97,
-     "BRENT": 53.31
-    },
-    {
-     "Forecast Date": "01\/01\/2017",
-     "WTI": 52.5,
-     "BRENT": 54.58
-    },
-    {
-     "Forecast Date": "02\/01\/2017",
-     "WTI": 53.47,
-     "BRENT": 54.87
-    },
-    {
-     "Forecast Date": "03\/01\/2017",
-     "WTI": 49.33,
-     "BRENT": 51.59
-    },
-    {
-     "Forecast Date": "04\/01\/2017",
-     "WTI": 51.06,
-     "BRENT": 52.31
-    },
-    {
-     "Forecast Date": "05\/01\/2017",
-     "WTI": 48.48,
-     "BRENT": 50.33
-    },
-    {
-     "Forecast Date": "06\/01\/2017",
-     "WTI": 45.18,
-     "BRENT": 46.37
-    },
-    {
-     "Forecast Date": "07\/01\/2017",
-     "WTI": 46.63,
-     "BRENT": 48.48
-    },
-    {
-     "Forecast Date": "08\/01\/2017",
-     "WTI": 48.04,
-     "BRENT": 51.7
-    },
-    {
-     "Forecast Date": "09\/01\/2017",
-     "WTI": 49.82,
-     "BRENT": 56.15
-    },
-    {
-     "Forecast Date": "10\/01\/2017",
-     "WTI": 51.58,
-     "BRENT": 57.51
-    },
-    {
-     "Forecast Date": "11\/01\/2017",
-     "WTI": 56.64,
-     "BRENT": 62.71
-    },
-    {
-     "Forecast Date": "12\/01\/2017",
-     "WTI": 57.88,
-     "BRENT": 64.37
-    },
-    {
-     "Forecast Date": "01\/01\/2018",
-     "WTI": 63.7,
-     "BRENT": 69.08
-    },
-    {
-     "Forecast Date": "02\/01\/2018",
-     "WTI": 62.23,
-     "BRENT": 65.32
-    },
-    {
-     "Forecast Date": "03\/01\/2018",
-     "WTI": 62.73,
-     "BRENT": 66.02
-    },
-    {
-     "Forecast Date": "04\/01\/2018",
-     "WTI": 66.25,
-     "BRENT": 72.11
-    },
-    {
-     "Forecast Date": "05\/01\/2018",
-     "WTI": 69.98,
-     "BRENT": 76.98
-    },
-    {
-     "Forecast Date": "06\/01\/2018",
-     "WTI": 67.87,
-     "BRENT": 74.4
-    },
-    {
-     "Forecast Date": "07\/01\/2018",
-     "WTI": 70.98,
-     "BRENT": 74.25
-    },
-    {
-     "Forecast Date": "08\/01\/2018",
-     "WTI": 68.06,
-     "BRENT": 72.53
-    },
-    {
-     "Forecast Date": "09\/01\/2018",
-     "WTI": 70.23,
-     "BRENT": 78.89
-    },
-    {
-     "Forecast Date": "10\/01\/2018",
-     "WTI": 70.75,
-     "BRENT": 81.03
-    },
-    {
-     "Forecast Date": "11\/01\/2018",
-     "WTI": 56.96,
-     "BRENT": 64.75
-    },
-    {
-     "Forecast Date": "12\/01\/2018",
-     "WTI": 49.52,
-     "BRENT": 57.36
-    },
-    {
-     "Forecast Date": "01\/01\/2019",
-     "WTI": 51.38,
-     "BRENT": 59.41
-    },
-    {
-     "Forecast Date": "02\/01\/2019",
-     "WTI": 54.95,
-     "BRENT": 63.96
-    },
-    {
-     "Forecast Date": "03\/01\/2019",
-     "WTI": 58.15,
-     "BRENT": 66.14
-    },
-    {
-     "Forecast Date": "04\/01\/2019",
-     "WTI": 63.86,
-     "BRENT": 71.23
-    },
-    {
-     "Forecast Date": "05\/01\/2019",
-     "WTI": 60.83,
-     "BRENT": 71.32
-    },
-    {
-     "Forecast Date": "06\/01\/2019",
-     "WTI": 54.66,
-     "BRENT": 64.22
-    },
-    {
-     "Forecast Date": "07\/01\/2019",
-     "WTI": 57.35,
-     "BRENT": 63.92
-    },
-    {
-     "Forecast Date": "08\/01\/2019",
-     "WTI": 54.81,
-     "BRENT": 59.04
-    },
-    {
-     "Forecast Date": "09\/01\/2019",
-     "WTI": 56.95,
-     "BRENT": 62.83
-    },
-    {
-     "Forecast Date": "10\/01\/2019",
-     "WTI": 53.96,
-     "BRENT": 59.71
-    },
-    {
-     "Forecast Date": "11\/01\/2019",
-     "WTI": 57.03,
-     "BRENT": 63.21
-    },
-    {
-     "Forecast Date": "12\/01\/2019",
-     "WTI": 59.88,
-     "BRENT": 67.22
-    },
-    {
-     "Forecast Date": "01\/01\/2020",
-     "WTI": 57.52,
-     "BRENT": 63.65
-    },
-    {
-     "Forecast Date": "02\/01\/2020",
-     "WTI": 50.54,
-     "BRENT": 55.66
-    },
-    {
-     "Forecast Date": "03\/01\/2020",
-     "WTI": 29.21,
-     "BRENT": 32.01
-    },
-    {
-     "Forecast Date": "04\/01\/2020",
-     "WTI": 16.55,
-     "BRENT": 18.38
-    },
-    {
-     "Forecast Date": "05\/01\/2020",
-     "WTI": 28.56,
-     "BRENT": 29.38
-    },
-    {
-     "Forecast Date": "06\/01\/2020",
-     "WTI": 38.31,
-     "BRENT": 40.27
-    },
-    {
-     "Forecast Date": "07\/01\/2020",
-     "WTI": 40.71,
-     "BRENT": 43.24
-    },
-    {
-     "Forecast Date": "08\/01\/2020",
-     "WTI": 42.34,
-     "BRENT": 44.74
-    },
-    {
-     "Forecast Date": "09\/01\/2020",
-     "WTI": 39.63,
-     "BRENT": 40.91
-    },
-    {
-     "Forecast Date": "10\/01\/2020",
-     "WTI": 39.4,
-     "BRENT": 40.19
-    },
-    {
-     "Forecast Date": "11\/01\/2020",
-     "WTI": 40.94,
-     "BRENT": 42.69
-    },
-    {
-     "Forecast Date": "12\/01\/2020",
-     "WTI": 47.02,
-     "BRENT": 49.99
-    },
-    {
-     "Forecast Date": "01\/01\/2021",
-     "WTI": 52,
-     "BRENT": 54.77
-    },
-    {
-     "Forecast Date": "02\/01\/2021",
-     "WTI": 59.04,
-     "BRENT": 62.28
-    },
-    {
-     "Forecast Date": "03\/01\/2021",
-     "WTI": 62.33,
-     "BRENT": 65.41
-    },
-    {
-     "Forecast Date": "04\/01\/2021",
-     "WTI": 61.72,
-     "BRENT": 64.81
-    },
-    {
-     "Forecast Date": "05\/01\/2021",
-     "WTI": 65.17,
-     "BRENT": 68.53
-    },
-    {
-     "Forecast Date": "06\/01\/2021",
-     "WTI": 71.38,
-     "BRENT": 73.16
-    },
-    {
-     "Forecast Date": "07\/01\/2021",
-     "WTI": 72.49,
-     "BRENT": 75.17
-    },
-    {
-     "Forecast Date": "08\/01\/2021",
-     "WTI": 67.73,
-     "BRENT": 70.75
-    },
-    {
-     "Forecast Date": "09\/01\/2021",
-     "WTI": 71.65,
-     "BRENT": 74.49
-    },
-    {
-     "Forecast Date": "10\/01\/2021",
-     "WTI": 81.48,
-     "BRENT": 83.54
-    },
-    {
-     "Forecast Date": "11\/01\/2021",
-     "WTI": 79.15,
-     "BRENT": 81.05
-    },
-    {
-     "Forecast Date": "12\/01\/2021",
-     "WTI": 71.71,
-     "BRENT": 74.17
-    },
-    {
-     "Forecast Date": "01\/01\/2022",
-     "WTI": 83.22,
-     "BRENT": 86.51
-    },
-    {
-     "Forecast Date": "02\/01\/2022",
-     "WTI": 91.64,
-     "BRENT": 97.13
-    },
-    {
-     "Forecast Date": "03\/01\/2022",
-     "WTI": 108.5,
-     "BRENT": 117.25
-    },
-    {
-     "Forecast Date": "04\/01\/2022",
-     "WTI": 101.78,
-     "BRENT": 104.58
-    },
-    {
-     "Forecast Date": "05\/01\/2022",
-     "WTI": 109.55,
-     "BRENT": 113.34
-    },
-    {
-     "Forecast Date": "06\/01\/2022",
-     "WTI": 114.84,
-     "BRENT": 122.71
-    },
-    {
-     "Forecast Date": "07\/01\/2022",
-     "WTI": 101.62,
-     "BRENT": 111.93
-    },
-    {
-     "Forecast Date": "08\/01\/2022",
-     "WTI": 93.67,
-     "BRENT": 100.45
-    },
-    {
-     "Forecast Date": "09\/01\/2022",
-     "WTI": 84.26,
-     "BRENT": 89.76
-    },
-    {
-     "Forecast Date": "10\/01\/2022",
-     "WTI": 87.55,
-     "BRENT": 93.33
-    },
-    {
-     "Forecast Date": "11\/01\/2022",
-     "WTI": 84.37,
-     "BRENT": 91.42
-    },
-    {
-     "Forecast Date": "12\/01\/2022",
-     "WTI": 76.44,
-     "BRENT": 80.92
-    },
-    {
-     "Forecast Date": "01\/01\/2023",
-     "WTI": 78.08,
-     "BRENT": 82.5,
-     "COMMODIA - BRENT": 80.1998462
-    },
-    {
-     "Forecast Date": "02\/01\/2023",
-     "EIA": 80,
-     "NYMEX": 80.9,
-     "COMMODIA - BRENT": 81.4134738
-    },
-    {
-     "Forecast Date": "03\/01\/2023",
-     "EIA": 81,
-     "NYMEX": 79.5,
-     "COMMODIA - BRENT": 82.493195
-    },
-    {
-     "Forecast Date": "04\/01\/2023",
-     "EIA": 80,
-     "NYMEX": 78.05,
-     "COMMODIA - BRENT": 84.0105707
-    },
-    {
-     "Forecast Date": "05\/01\/2023",
-     "EIA": 79,
-     "NYMEX": 78.25,
-     "COMMODIA - BRENT": 84.5273098
-    },
-    {
-     "Forecast Date": "06\/01\/2023",
-     "EIA": 79,
-     "NYMEX": 78.23,
-     "COMMODIA - BRENT": 84.7440453
-    },
-    {
-     "Forecast Date": "07\/01\/2023",
-     "EIA": 78,
-     "NYMEX": 78.01,
-     "COMMODIA - BRENT": 84.7892899
-    },
-    {
-     "Forecast Date": "08\/01\/2023",
-     "EIA": 77,
-     "NYMEX": 77.63,
-     "COMMODIA - BRENT": 85.1209213
-    },
-    {
-     "Forecast Date": "09\/01\/2023",
-     "EIA": 76,
-     "NYMEX": 77.14,
-     "COMMODIA - BRENT": 85.0242933
-    },
-    {
-     "Forecast Date": "10\/01\/2023",
-     "EIA": 76,
-     "NYMEX": 76.63,
-     "COMMODIA - BRENT": 85.5779862
-    },
-    {
-     "Forecast Date": "11\/01\/2023",
-     "EIA": 75,
-     "NYMEX": 76.13,
-     "COMMODIA - BRENT": 86.0187076
-    },
-    {
-     "Forecast Date": "12\/01\/2023",
-     "EIA": 75,
-     "NYMEX": 75.64,
-     "COMMODIA - BRENT": 86.5841897
-    },
-    {
-     "Forecast Date": "01\/01\/2024",
-     "EIA": 74,
-     "NYMEX": 75.14,
-     "COMMODIA - BRENT": 87.0204817
-    },
-    {
-     "Forecast Date": "02\/01\/2024",
-     "EIA": 74,
-     "NYMEX": 74.65,
-     "COMMODIA - BRENT": 87.6843373
-    },
-    {
-     "Forecast Date": "03\/01\/2024",
-     "EIA": 74,
-     "NYMEX": 74.21,
-     "COMMODIA - BRENT": 87.398229
-    },
-    {
-     "Forecast Date": "04\/01\/2024",
-     "EIA": 73,
-     "NYMEX": 73.8,
-     "COMMODIA - BRENT": 87.7920246
-    },
-    {
-     "Forecast Date": "05\/01\/2024",
-     "EIA": 72,
-     "NYMEX": 73.42,
-     "COMMODIA - BRENT": 87.927813
-    },
-    {
-     "Forecast Date": "06\/01\/2024",
-     "EIA": 72,
-     "NYMEX": 73.04,
-     "COMMODIA - BRENT": 87.3951046
-    },
-    {
-     "Forecast Date": "07\/01\/2024",
-     "EIA": 71,
-     "NYMEX": 72.62,
-     "COMMODIA - BRENT": 88.2129341
-    },
-    {
-     "Forecast Date": "08\/01\/2024",
-     "EIA": 71,
-     "NYMEX": 72.22,
-     "COMMODIA - BRENT": 88.0628938
-    },
-    {
-     "Forecast Date": "09\/01\/2024",
-     "EIA": 70,
-     "NYMEX": 71.86,
-     "COMMODIA - BRENT": 88.0517404
-    },
-    {
-     "Forecast Date": "10\/01\/2024",
-     "EIA": 70,
-     "NYMEX": 71.52,
-     "COMMODIA - BRENT": 88.3322431
-    },
-    {
-     "Forecast Date": "11\/01\/2024",
-     "EIA": 69,
-     "NYMEX": 71.2,
-     "COMMODIA - BRENT": 88.0114451
-    },
-    {
-     "Forecast Date": "12\/01\/2024",
-     "EIA": 69,
-     "NYMEX": 70.87,
-     "COMMODIA - BRENT": 88.5783693
-    }
-   ]
+ {
+  "Forecast Date": "01\/01\/2015",
+  "WTI": 47.22,
+  "BRENT": 47.76
+ },
+ {
+  "Forecast Date": "02\/01\/2015",
+  "WTI": 50.58,
+  "BRENT": 58.1
+ },
+ {
+  "Forecast Date": "03\/01\/2015",
+  "WTI": 47.82,
+  "BRENT": 55.89
+ },
+ {
+  "Forecast Date": "04\/01\/2015",
+  "WTI": 54.45,
+  "BRENT": 59.52
+ },
+ {
+  "Forecast Date": "05\/01\/2015",
+  "WTI": 59.27,
+  "BRENT": 64.08
+ },
+ {
+  "Forecast Date": "06\/01\/2015",
+  "WTI": 59.82,
+  "BRENT": 61.48
+ },
+ {
+  "Forecast Date": "07\/01\/2015",
+  "WTI": 50.9,
+  "BRENT": 56.56
+ },
+ {
+  "Forecast Date": "08\/01\/2015",
+  "WTI": 42.87,
+  "BRENT": 46.52
+ },
+ {
+  "Forecast Date": "09\/01\/2015",
+  "WTI": 45.48,
+  "BRENT": 47.62
+ },
+ {
+  "Forecast Date": "10\/01\/2015",
+  "WTI": 46.22,
+  "BRENT": 48.43
+ },
+ {
+  "Forecast Date": "11\/01\/2015",
+  "WTI": 42.44,
+  "BRENT": 44.27
+ },
+ {
+  "Forecast Date": "12\/01\/2015",
+  "WTI": 37.19,
+  "BRENT": 38.01
+ },
+ {
+  "Forecast Date": "01\/01\/2016",
+  "WTI": 31.68,
+  "BRENT": 30.7
+ },
+ {
+  "Forecast Date": "02\/01\/2016",
+  "WTI": 30.32,
+  "BRENT": 32.18
+ },
+ {
+  "Forecast Date": "03\/01\/2016",
+  "WTI": 37.55,
+  "BRENT": 38.21
+ },
+ {
+  "Forecast Date": "04\/01\/2016",
+  "WTI": 40.75,
+  "BRENT": 41.58
+ },
+ {
+  "Forecast Date": "05\/01\/2016",
+  "WTI": 46.71,
+  "BRENT": 46.74
+ },
+ {
+  "Forecast Date": "06\/01\/2016",
+  "WTI": 48.76,
+  "BRENT": 48.25
+ },
+ {
+  "Forecast Date": "07\/01\/2016",
+  "WTI": 44.65,
+  "BRENT": 44.95
+ },
+ {
+  "Forecast Date": "08\/01\/2016",
+  "WTI": 44.72,
+  "BRENT": 45.84
+ },
+ {
+  "Forecast Date": "09\/01\/2016",
+  "WTI": 45.18,
+  "BRENT": 46.57
+ },
+ {
+  "Forecast Date": "10\/01\/2016",
+  "WTI": 49.78,
+  "BRENT": 49.52
+ },
+ {
+  "Forecast Date": "11\/01\/2016",
+  "WTI": 45.66,
+  "BRENT": 44.73
+ },
+ {
+  "Forecast Date": "12\/01\/2016",
+  "WTI": 51.97,
+  "BRENT": 53.31
+ },
+ {
+  "Forecast Date": "01\/01\/2017",
+  "WTI": 52.5,
+  "BRENT": 54.58
+ },
+ {
+  "Forecast Date": "02\/01\/2017",
+  "WTI": 53.47,
+  "BRENT": 54.87
+ },
+ {
+  "Forecast Date": "03\/01\/2017",
+  "WTI": 49.33,
+  "BRENT": 51.59
+ },
+ {
+  "Forecast Date": "04\/01\/2017",
+  "WTI": 51.06,
+  "BRENT": 52.31
+ },
+ {
+  "Forecast Date": "05\/01\/2017",
+  "WTI": 48.48,
+  "BRENT": 50.33
+ },
+ {
+  "Forecast Date": "06\/01\/2017",
+  "WTI": 45.18,
+  "BRENT": 46.37
+ },
+ {
+  "Forecast Date": "07\/01\/2017",
+  "WTI": 46.63,
+  "BRENT": 48.48
+ },
+ {
+  "Forecast Date": "08\/01\/2017",
+  "WTI": 48.04,
+  "BRENT": 51.7
+ },
+ {
+  "Forecast Date": "09\/01\/2017",
+  "WTI": 49.82,
+  "BRENT": 56.15
+ },
+ {
+  "Forecast Date": "10\/01\/2017",
+  "WTI": 51.58,
+  "BRENT": 57.51
+ },
+ {
+  "Forecast Date": "11\/01\/2017",
+  "WTI": 56.64,
+  "BRENT": 62.71
+ },
+ {
+  "Forecast Date": "12\/01\/2017",
+  "WTI": 57.88,
+  "BRENT": 64.37
+ },
+ {
+  "Forecast Date": "01\/01\/2018",
+  "WTI": 63.7,
+  "BRENT": 69.08
+ },
+ {
+  "Forecast Date": "02\/01\/2018",
+  "WTI": 62.23,
+  "BRENT": 65.32
+ },
+ {
+  "Forecast Date": "03\/01\/2018",
+  "WTI": 62.73,
+  "BRENT": 66.02
+ },
+ {
+  "Forecast Date": "04\/01\/2018",
+  "WTI": 66.25,
+  "BRENT": 72.11
+ },
+ {
+  "Forecast Date": "05\/01\/2018",
+  "WTI": 69.98,
+  "BRENT": 76.98
+ },
+ {
+  "Forecast Date": "06\/01\/2018",
+  "WTI": 67.87,
+  "BRENT": 74.4
+ },
+ {
+  "Forecast Date": "07\/01\/2018",
+  "WTI": 70.98,
+  "BRENT": 74.25
+ },
+ {
+  "Forecast Date": "08\/01\/2018",
+  "WTI": 68.06,
+  "BRENT": 72.53
+ },
+ {
+  "Forecast Date": "09\/01\/2018",
+  "WTI": 70.23,
+  "BRENT": 78.89
+ },
+ {
+  "Forecast Date": "10\/01\/2018",
+  "WTI": 70.75,
+  "BRENT": 81.03
+ },
+ {
+  "Forecast Date": "11\/01\/2018",
+  "WTI": 56.96,
+  "BRENT": 64.75
+ },
+ {
+  "Forecast Date": "12\/01\/2018",
+  "WTI": 49.52,
+  "BRENT": 57.36
+ },
+ {
+  "Forecast Date": "01\/01\/2019",
+  "WTI": 51.38,
+  "BRENT": 59.41
+ },
+ {
+  "Forecast Date": "02\/01\/2019",
+  "WTI": 54.95,
+  "BRENT": 63.96
+ },
+ {
+  "Forecast Date": "03\/01\/2019",
+  "WTI": 58.15,
+  "BRENT": 66.14
+ },
+ {
+  "Forecast Date": "04\/01\/2019",
+  "WTI": 63.86,
+  "BRENT": 71.23
+ },
+ {
+  "Forecast Date": "05\/01\/2019",
+  "WTI": 60.83,
+  "BRENT": 71.32
+ },
+ {
+  "Forecast Date": "06\/01\/2019",
+  "WTI": 54.66,
+  "BRENT": 64.22
+ },
+ {
+  "Forecast Date": "07\/01\/2019",
+  "WTI": 57.35,
+  "BRENT": 63.92
+ },
+ {
+  "Forecast Date": "08\/01\/2019",
+  "WTI": 54.81,
+  "BRENT": 59.04
+ },
+ {
+  "Forecast Date": "09\/01\/2019",
+  "WTI": 56.95,
+  "BRENT": 62.83
+ },
+ {
+  "Forecast Date": "10\/01\/2019",
+  "WTI": 53.96,
+  "BRENT": 59.71
+ },
+ {
+  "Forecast Date": "11\/01\/2019",
+  "WTI": 57.03,
+  "BRENT": 63.21
+ },
+ {
+  "Forecast Date": "12\/01\/2019",
+  "WTI": 59.88,
+  "BRENT": 67.22
+ },
+ {
+  "Forecast Date": "01\/01\/2020",
+  "WTI": 57.52,
+  "BRENT": 63.65
+ },
+ {
+  "Forecast Date": "02\/01\/2020",
+  "WTI": 50.54,
+  "BRENT": 55.66
+ },
+ {
+  "Forecast Date": "03\/01\/2020",
+  "WTI": 29.21,
+  "BRENT": 32.01
+ },
+ {
+  "Forecast Date": "04\/01\/2020",
+  "WTI": 16.55,
+  "BRENT": 18.38
+ },
+ {
+  "Forecast Date": "05\/01\/2020",
+  "WTI": 28.56,
+  "BRENT": 29.38
+ },
+ {
+  "Forecast Date": "06\/01\/2020",
+  "WTI": 38.31,
+  "BRENT": 40.27
+ },
+ {
+  "Forecast Date": "07\/01\/2020",
+  "WTI": 40.71,
+  "BRENT": 43.24
+ },
+ {
+  "Forecast Date": "08\/01\/2020",
+  "WTI": 42.34,
+  "BRENT": 44.74
+ },
+ {
+  "Forecast Date": "09\/01\/2020",
+  "WTI": 39.63,
+  "BRENT": 40.91
+ },
+ {
+  "Forecast Date": "10\/01\/2020",
+  "WTI": 39.4,
+  "BRENT": 40.19
+ },
+ {
+  "Forecast Date": "11\/01\/2020",
+  "WTI": 40.94,
+  "BRENT": 42.69
+ },
+ {
+  "Forecast Date": "12\/01\/2020",
+  "WTI": 47.02,
+  "BRENT": 49.99
+ },
+ {
+  "Forecast Date": "01\/01\/2021",
+  "WTI": 52,
+  "BRENT": 54.77
+ },
+ {
+  "Forecast Date": "02\/01\/2021",
+  "WTI": 59.04,
+  "BRENT": 62.28
+ },
+ {
+  "Forecast Date": "03\/01\/2021",
+  "WTI": 62.33,
+  "BRENT": 65.41
+ },
+ {
+  "Forecast Date": "04\/01\/2021",
+  "WTI": 61.72,
+  "BRENT": 64.81
+ },
+ {
+  "Forecast Date": "05\/01\/2021",
+  "WTI": 65.17,
+  "BRENT": 68.53
+ },
+ {
+  "Forecast Date": "06\/01\/2021",
+  "WTI": 71.38,
+  "BRENT": 73.16
+ },
+ {
+  "Forecast Date": "07\/01\/2021",
+  "WTI": 72.49,
+  "BRENT": 75.17
+ },
+ {
+  "Forecast Date": "08\/01\/2021",
+  "WTI": 67.73,
+  "BRENT": 70.75
+ },
+ {
+  "Forecast Date": "09\/01\/2021",
+  "WTI": 71.65,
+  "BRENT": 74.49
+ },
+ {
+  "Forecast Date": "10\/01\/2021",
+  "WTI": 81.48,
+  "BRENT": 83.54
+ },
+ {
+  "Forecast Date": "11\/01\/2021",
+  "WTI": 79.15,
+  "BRENT": 81.05
+ },
+ {
+  "Forecast Date": "12\/01\/2021",
+  "WTI": 71.71,
+  "BRENT": 74.17
+ },
+ {
+  "Forecast Date": "01\/01\/2022",
+  "WTI": 83.22,
+  "BRENT": 86.51
+ },
+ {
+  "Forecast Date": "02\/01\/2022",
+  "WTI": 91.64,
+  "BRENT": 97.13
+ },
+ {
+  "Forecast Date": "03\/01\/2022",
+  "WTI": 108.5,
+  "BRENT": 117.25
+ },
+ {
+  "Forecast Date": "04\/01\/2022",
+  "WTI": 101.78,
+  "BRENT": 104.58
+ },
+ {
+  "Forecast Date": "05\/01\/2022",
+  "WTI": 109.55,
+  "BRENT": 113.34
+ },
+ {
+  "Forecast Date": "06\/01\/2022",
+  "WTI": 114.84,
+  "BRENT": 122.71
+ },
+ {
+  "Forecast Date": "07\/01\/2022",
+  "WTI": 101.62,
+  "BRENT": 111.93
+ },
+ {
+  "Forecast Date": "08\/01\/2022",
+  "WTI": 93.67,
+  "BRENT": 100.45
+ },
+ {
+  "Forecast Date": "09\/01\/2022",
+  "WTI": 84.26,
+  "BRENT": 89.76
+ },
+ {
+  "Forecast Date": "10\/01\/2022",
+  "WTI": 87.55,
+  "BRENT": 93.33
+ },
+ {
+  "Forecast Date": "11\/01\/2022",
+  "WTI": 84.37,
+  "BRENT": 91.42
+ },
+ {
+  "Forecast Date": "12\/01\/2022",
+  "WTI": 76.44,
+  "BRENT": 80.92
+ },
+ {
+  "Forecast Date": "01\/01\/2023",
+  "WTI": 78.08,
+  "EIA": 78.08,
+  "NYMEX": 82.5,
+  "BRENT": 82.5,
+  "COMMODIA - BRENT": 80.1998462
+ },
+ {
+  "Forecast Date": "02\/01\/2023",
+  "EIA": 80,
+  "NYMEX": 80.9,
+  "COMMODIA - BRENT": 81.4134738
+ },
+ {
+  "Forecast Date": "03\/01\/2023",
+  "EIA": 81,
+  "NYMEX": 79.5,
+  "COMMODIA - BRENT": 82.493195
+ },
+ {
+  "Forecast Date": "04\/01\/2023",
+  "EIA": 80,
+  "NYMEX": 78.05,
+  "COMMODIA - BRENT": 84.0105707
+ },
+ {
+  "Forecast Date": "05\/01\/2023",
+  "EIA": 79,
+  "NYMEX": 78.25,
+  "COMMODIA - BRENT": 84.5273098
+ },
+ {
+  "Forecast Date": "06\/01\/2023",
+  "EIA": 79,
+  "NYMEX": 78.23,
+  "COMMODIA - BRENT": 84.7440453
+ },
+ {
+  "Forecast Date": "07\/01\/2023",
+  "EIA": 78,
+  "NYMEX": 78.01,
+  "COMMODIA - BRENT": 84.7892899
+ },
+ {
+  "Forecast Date": "08\/01\/2023",
+  "EIA": 77,
+  "NYMEX": 77.63,
+  "COMMODIA - BRENT": 85.1209213
+ },
+ {
+  "Forecast Date": "09\/01\/2023",
+  "EIA": 76,
+  "NYMEX": 77.14,
+  "COMMODIA - BRENT": 85.0242933
+ },
+ {
+  "Forecast Date": "10\/01\/2023",
+  "EIA": 76,
+  "NYMEX": 76.63,
+  "COMMODIA - BRENT": 85.5779862
+ },
+ {
+  "Forecast Date": "11\/01\/2023",
+  "EIA": 75,
+  "NYMEX": 76.13,
+  "COMMODIA - BRENT": 86.0187076
+ },
+ {
+  "Forecast Date": "12\/01\/2023",
+  "EIA": 75,
+  "NYMEX": 75.64,
+  "COMMODIA - BRENT": 86.5841897
+ },
+ {
+  "Forecast Date": "01\/01\/2024",
+  "EIA": 74,
+  "NYMEX": 75.14,
+  "COMMODIA - BRENT": 87.0204817
+ },
+ {
+  "Forecast Date": "02\/01\/2024",
+  "EIA": 74,
+  "NYMEX": 74.65,
+  "COMMODIA - BRENT": 87.6843373
+ },
+ {
+  "Forecast Date": "03\/01\/2024",
+  "EIA": 74,
+  "NYMEX": 74.21,
+  "COMMODIA - BRENT": 87.398229
+ },
+ {
+  "Forecast Date": "04\/01\/2024",
+  "EIA": 73,
+  "NYMEX": 73.8,
+  "COMMODIA - BRENT": 87.7920246
+ },
+ {
+  "Forecast Date": "05\/01\/2024",
+  "EIA": 72,
+  "NYMEX": 73.42,
+  "COMMODIA - BRENT": 87.927813
+ },
+ {
+  "Forecast Date": "06\/01\/2024",
+  "EIA": 72,
+  "NYMEX": 73.04,
+  "COMMODIA - BRENT": 87.3951046
+ },
+ {
+  "Forecast Date": "07\/01\/2024",
+  "EIA": 71,
+  "NYMEX": 72.62,
+  "COMMODIA - BRENT": 88.2129341
+ },
+ {
+  "Forecast Date": "08\/01\/2024",
+  "EIA": 71,
+  "NYMEX": 72.22,
+  "COMMODIA - BRENT": 88.0628938
+ },
+ {
+  "Forecast Date": "09\/01\/2024",
+  "EIA": 70,
+  "NYMEX": 71.86,
+  "COMMODIA - BRENT": 88.0517404
+ },
+ {
+  "Forecast Date": "10\/01\/2024",
+  "EIA": 70,
+  "NYMEX": 71.52,
+  "COMMODIA - BRENT": 88.3322431
+ },
+ {
+  "Forecast Date": "11\/01\/2024",
+  "EIA": 69,
+  "NYMEX": 71.2,
+  "COMMODIA - BRENT": 88.0114451
+ },
+ {
+  "Forecast Date": "12\/01\/2024",
+  "EIA": 69,
+  "NYMEX": 70.87,
+  "COMMODIA - BRENT": 88.5783693
+ }
+]
