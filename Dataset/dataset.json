@@ -501,10 +501,10 @@
   "EIA": 78.5,
   "COMMODIA - WTI": 78.5,
   "NYMEX": 78.5,
-  "BRENT": 83.05,
-  "ICE": 83.05,
-  "EIA2": 83.05,
-  "COMMODIA - BRENT": 83.05
+  "BRENT": 85.01,
+  "ICE": 85.01,
+  "EIA2": 85.01,
+  "COMMODIA - BRENT": 85.01
  },
  {
   "Forecast Date": "05\/01\/2023",
@@ -710,6 +710,7 @@
  {
   "Forecast Date": "03\/02\/2025",
   "COMMODIA - WTI": 91.43,
+  "NYMEX": 74.51,
   "ICE": 72.1,
   "COMMODIA - BRENT": 102.76
  }
