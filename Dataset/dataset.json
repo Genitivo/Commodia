@@ -507,189 +507,487 @@
  },
  {
   "Forecast Date": "06\/01\/2023",
-  "WTI": 77.22,
-  "BRENT": 78.52
+  "WTI": 70.25,
+  "BRENT": 74.84
  },
  {
   "Forecast Date": "07\/01\/2023",
-  "WTI": 78.81,
-  "COMMODIA - WTI": 78.81,
-  "NYMEX": 78.81,
-  "BRENT": 81.1,
-  "ICE": 81.1,
-  "COMMODIA - BRENT": 81.1
+  "WTI": 82.5,
+  "BRENT": 80.11
  },
  {
   "Forecast Date": "08\/01\/2023",
-  "COMMODIA - WTI": 74.4665411424467,
-  "NYMEX": 80.81,
-  "ICE": 83.9,
-  "COMMODIA - BRENT": 80.1249477769561
+  "WTI": 85.5,
+  "COMMODIA - WTI": 85.5,
+  "NYMEX": 85.5,
+  "BRENT": 86.1,
+  "ICE": 86.1,
+  "COMMODIA - BRENT": 86.1
  },
  {
   "Forecast Date": "09\/01\/2023",
-  "COMMODIA - WTI": 74.5072415089372,
-  "NYMEX": 81.88,
-  "ICE": 85.08,
-  "COMMODIA - BRENT": 80.8448724849123
+  "COMMODIA - WTI": 81.7366930206154,
+  "NYMEX": 86.02,
+  "ICE": 86.2825,
+  "COMMODIA - BRENT": 87.2720125461281
  },
  {
   "Forecast Date": "10\/01\/2023",
-  "COMMODIA - WTI": 74.7189025609905,
-  "NYMEX": 81.68,
-  "ICE": 84.59,
-  "COMMODIA - BRENT": 81.7770853955449
+  "COMMODIA - WTI": 81.3872044393905,
+  "NYMEX": 86.05,
+  "ICE": 86.465,
+  "COMMODIA - BRENT": 87.8714829303207
  },
  {
   "Forecast Date": "11\/01\/2023",
-  "COMMODIA - WTI": 75.4763781229819,
-  "NYMEX": 81.39,
-  "ICE": 84.13,
-  "COMMODIA - BRENT": 82.8553926165846
+  "COMMODIA - WTI": 81.5959482684888,
+  "NYMEX": 85.15,
+  "ICE": 86.6475,
+  "COMMODIA - BRENT": 89.0598993889487
  },
  {
   "Forecast Date": "12\/01\/2023",
-  "COMMODIA - WTI": 76.3483059560639,
-  "NYMEX": 80.89,
-  "ICE": 83.64,
-  "COMMODIA - BRENT": 84.0715713172666
+  "COMMODIA - WTI": 82.2591097576063,
+  "NYMEX": 84.29,
+  "ICE": 86.83,
+  "COMMODIA - BRENT": 89.8495997495654
  },
  {
   "Forecast Date": "01\/01\/2024",
-  "COMMODIA - WTI": 76.8627308051399,
-  "NYMEX": 80.37,
-  "ICE": 83.15,
-  "COMMODIA - BRENT": 85.022984258049
+  "COMMODIA - WTI": 83.0325184387823,
+  "NYMEX": 83.45,
+  "ICE": 86.23,
+  "COMMODIA - BRENT": 90.8078952861675
  },
  {
   "Forecast Date": "02\/01\/2024",
-  "COMMODIA - WTI": 77.3145744278074,
-  "NYMEX": 79.84,
-  "ICE": 82.72,
-  "COMMODIA - BRENT": 85.5692405741343
+  "COMMODIA - WTI": 83.4939411543363,
+  "NYMEX": 82.7,
+  "ICE": 85.64,
+  "COMMODIA - BRENT": 91.6479763591192
  },
  {
   "Forecast Date": "03\/01\/2024",
-  "COMMODIA - WTI": 77.8323172867662,
-  "NYMEX": 79.32,
-  "ICE": 82.29,
-  "COMMODIA - BRENT": 86.0681160393231
+  "COMMODIA - WTI": 83.7476875922238,
+  "NYMEX": 81.98,
+  "ICE": 85.07,
+  "COMMODIA - BRENT": 91.9799734636654
  },
  {
   "Forecast Date": "04\/01\/2024",
-  "COMMODIA - WTI": 78.2886952666173,
-  "NYMEX": 78.86,
-  "ICE": 81.86,
-  "COMMODIA - BRENT": 86.6882344345307
+  "COMMODIA - WTI": 84.2975745389754,
+  "NYMEX": 81.32,
+  "ICE": 84.52,
+  "COMMODIA - BRENT": 92.43809205058
  },
  {
   "Forecast Date": "05\/01\/2024",
-  "COMMODIA - WTI": 78.7651450370083,
-  "NYMEX": 78.16,
-  "ICE": 81.32,
-  "COMMODIA - BRENT": 86.7541246937774
+  "COMMODIA - WTI": 84.5779534775368,
+  "NYMEX": 80.72,
+  "ICE": 84.03,
+  "COMMODIA - BRENT": 92.6280481148416
  },
  {
   "Forecast Date": "06\/01\/2024",
-  "COMMODIA - WTI": 79.5030392628529,
-  "NYMEX": 77.95,
-  "ICE": 80.91,
-  "COMMODIA - BRENT": 87.6592904008013
+  "COMMODIA - WTI": 85.3420568383012,
+  "NYMEX": 80.34,
+  "ICE": 83.56,
+  "COMMODIA - BRENT": 93.202221593148
  },
  {
   "Forecast Date": "07\/01\/2024",
-  "COMMODIA - WTI": 79.9547035893624,
-  "NYMEX": 77.39,
-  "ICE": 80.57,
-  "COMMODIA - BRENT": 88.1721123074975
+  "COMMODIA - WTI": 85.6371472331093,
+  "NYMEX": 79.69,
+  "ICE": 83.12,
+  "COMMODIA - BRENT": 93.4937076902508
  },
  {
   "Forecast Date": "08\/01\/2024",
-  "COMMODIA - WTI": 80.1324334841679,
-  "NYMEX": 77.09,
-  "ICE": 80.20333333333333,
-  "COMMODIA - BRENT": 88.2050229837173
+  "COMMODIA - WTI": 86.2842674004352,
+  "NYMEX": 79.12,
+  "ICE": 82.68,
+  "COMMODIA - BRENT": 94.1414970911283
  },
  {
   "Forecast Date": "09\/01\/2024",
-  "COMMODIA - WTI": 80.8700449699314,
-  "NYMEX": 76.57,
-  "ICE": 79.83666666666667,
-  "COMMODIA - BRENT": 89.0651951514927
+  "COMMODIA - WTI": 86.6232252761073,
+  "NYMEX": 78.52,
+  "ICE": 82.24,
+  "COMMODIA - BRENT": 94.5497555589318
  },
  {
   "Forecast Date": "10\/01\/2024",
-  "COMMODIA - WTI": 81.2517095602876,
-  "NYMEX": 76.57,
-  "ICE": 79.48,
-  "COMMODIA - BRENT": 89.5455618290333
+  "COMMODIA - WTI": 86.7746577651269,
+  "NYMEX": 78.33,
+  "ICE": 81.82,
+  "COMMODIA - BRENT": 94.6797724772876
  },
  {
   "Forecast Date": "11\/01\/2024",
-  "COMMODIA - WTI": 81.839416462572,
-  "NYMEX": 76.57,
-  "ICE": 79.12333333333333,
-  "COMMODIA - BRENT": 90.0426301676458
+  "COMMODIA - WTI": 87.3882219617796,
+  "NYMEX": 77.49,
+  "ICE": 81.4,
+  "COMMODIA - BRENT": 95.203884144249
  },
  {
   "Forecast Date": "12\/01\/2024",
-  "COMMODIA - WTI": 81.877794408234,
-  "NYMEX": 76.57,
-  "ICE": 78.76666666666667,
-  "COMMODIA - BRENT": 90.3060868531519
+  "COMMODIA - WTI": 87.6858888765192,
+  "NYMEX": 77.38,
+  "ICE": 80.99,
+  "COMMODIA - BRENT": 95.6125661555599
  },
  {
   "Forecast Date": "01\/01\/2025",
-  "COMMODIA - WTI": 82.4012287753018,
-  "NYMEX": 74.77,
-  "ICE": 78.41,
-  "COMMODIA - BRENT": 90.6719408365627
+  "COMMODIA - WTI": 88.0620264399464,
+  "NYMEX": 76.85666666666667,
+  "ICE": 80.58,
+  "COMMODIA - BRENT": 96.1114601887683
  },
  {
   "Forecast Date": "02\/01\/2025",
-  "COMMODIA - WTI": 82.9118144583201,
-  "NYMEX": 74.77,
-  "ICE": 78.05333333333333,
-  "COMMODIA - BRENT": 91.3013264703641
+  "COMMODIA - WTI": 88.3279849994056,
+  "NYMEX": 76.33333333333334,
+  "ICE": 80.2,
+  "COMMODIA - BRENT": 96.2097001174678
  },
  {
   "Forecast Date": "03\/01\/2025",
-  "COMMODIA - WTI": 83.2003717933924,
-  "NYMEX": 74.77,
-  "ICE": 77.69666666666666,
-  "COMMODIA - BRENT": 91.7548182152329
+  "COMMODIA - WTI": 88.6575086111178,
+  "NYMEX": 75.81,
+  "ICE": 79.84,
+  "COMMODIA - BRENT": 96.5076259888056
  },
  {
   "Forecast Date": "04\/01\/2025",
-  "COMMODIA - WTI": 83.427302342344,
-  "NYMEX": 74.77,
-  "ICE": 77.34,
-  "COMMODIA - BRENT": 91.8127203373896
+  "COMMODIA - WTI": 89.1146870560271,
+  "NYMEX": 75.44333333333333,
+  "ICE": 79.5,
+  "COMMODIA - BRENT": 97.1009979599499
  },
  {
   "Forecast Date": "05\/01\/2025",
-  "COMMODIA - WTI": 84.4736155085999,
-  "NYMEX": 74.77,
-  "ICE": 76.55,
-  "COMMODIA - BRENT": 93.0674615355153
+  "COMMODIA - WTI": 89.29275848607,
+  "NYMEX": 75.07666666666665,
+  "ICE": 79.17,
+  "COMMODIA - BRENT": 97.1641998471508
  },
  {
   "Forecast Date": "06\/01\/2025",
-  "COMMODIA - WTI": 84.3256413210377,
-  "NYMEX": 73.07,
-  "ICE": 76.4,
-  "COMMODIA - BRENT": 93.3419375446699
+  "COMMODIA - WTI": 89.6930555220673,
+  "NYMEX": 74.71,
+  "ICE": 78.83,
+  "COMMODIA - BRENT": 97.6751780454792
  },
  {
   "Forecast Date": "07\/01\/2025",
-  "COMMODIA - WTI": 84.33,
-  "NYMEX": 72.39,
-  "ICE": 76.31,
-  "COMMODIA - BRENT": 93.34
+  "COMMODIA - WTI": 90.1137200500884,
+  "NYMEX": 74.58,
+  "ICE": 78.49,
+  "COMMODIA - BRENT": 98.0599266692832
  },
  {
-  "ICE": "."
+  "Forecast Date": "08\/01\/2025",
+  "COMMODIA - WTI": 90.4641402943574,
+  "NYMEX": 74.45,
+  "ICE": 78.15,
+  "COMMODIA - BRENT": 98.569635998557
+ },
+ {
+  "Forecast Date": "09\/01\/2025",
+  "COMMODIA - WTI": 90.56,
+  "NYMEX": 74.35,
+  "ICE": 77.85,
+  "COMMODIA - BRENT": 98.67
  }
 ],
-"Sheet1":[]
+"Sheet1":[
+ {
+  "86.10": 86.2825,
+  "Column3": "08\/01\/2023",
+  "Column5": 0.182500000000001
+ },
+ {
+  "86.10": 86.465,
+  "Column3": "09\/01\/2023"
+ },
+ {
+  "86.10": 86.6475,
+  "Column3": "10\/01\/2023"
+ },
+ {
+  "86.10": 86.83,
+  "Column2": "Nov-23",
+  "Column3": "11\/01\/2023"
+ },
+ {
+  "86.10": 86.23,
+  "Column2": "Dec-23",
+  "Column3": "12\/01\/2023"
+ },
+ {
+  "86.10": 85.64,
+  "Column2": "Jan-24",
+  "Column3": "01\/01\/2024"
+ },
+ {
+  "86.10": 85.07,
+  "Column2": "Feb-24",
+  "Column3": "02\/01\/2024"
+ },
+ {
+  "86.10": 84.52,
+  "Column2": "Mar-24",
+  "Column3": "03\/01\/2024"
+ },
+ {
+  "86.10": 84.03,
+  "Column2": "Apr-24",
+  "Column3": "04\/01\/2024"
+ },
+ {
+  "86.10": 83.56,
+  "Column2": "May-24",
+  "Column3": "05\/01\/2024"
+ },
+ {
+  "86.10": 83.12,
+  "Column2": "Jun-24",
+  "Column3": "06\/01\/2024"
+ },
+ {
+  "86.10": 82.68,
+  "Column2": "Jul-24",
+  "Column3": "07\/01\/2024"
+ },
+ {
+  "86.10": 82.24,
+  "Column2": "Aug-24",
+  "Column3": "08\/01\/2024"
+ },
+ {
+  "86.10": 81.82,
+  "Column2": "Sep-24",
+  "Column3": "09\/01\/2024"
+ },
+ {
+  "86.10": 81.4,
+  "Column2": "Oct-24",
+  "Column3": "10\/01\/2024"
+ },
+ {
+  "86.10": 80.99,
+  "Column2": "Nov-24",
+  "Column3": "11\/01\/2024"
+ },
+ {
+  "86.10": 80.58,
+  "Column2": "Dec-24",
+  "Column3": "12\/01\/2024"
+ },
+ {
+  "86.10": 80.2,
+  "Column2": "Jan-25",
+  "Column3": "01\/01\/2025"
+ },
+ {
+  "86.10": 79.84,
+  "Column2": "Feb-25",
+  "Column3": "02\/01\/2025"
+ },
+ {
+  "86.10": 79.5,
+  "Column2": "Mar-25",
+  "Column3": "03\/01\/2025"
+ },
+ {
+  "86.10": 79.17,
+  "Column2": "Apr-25",
+  "Column3": "04\/01\/2025"
+ },
+ {
+  "86.10": 78.83,
+  "Column2": "May-25",
+  "Column3": "05\/01\/2025"
+ },
+ {
+  "86.10": 78.49,
+  "Column2": "Jun-25",
+  "Column3": "06\/01\/2025"
+ },
+ {
+  "86.10": 78.15,
+  "Column2": "Jul-25",
+  "Column3": "07\/01\/2025"
+ },
+ {
+  "86.10": 77.83,
+  "Column2": "Aug-25",
+  "Column3": "08\/01\/2025"
+ }
+],
+"Sheet2":[
+ {
+  "Column1": "Oct-23",
+  "Column8": 86.05
+ },
+ {
+  "Column1": "Nov-23",
+  "OPT": "OPT",
+  "86.05": 85.15,
+  "Column8": 85.15
+ },
+ {
+  "Column1": "Dec-23",
+  "OPT": "OPT",
+  "86.05": 84.29,
+  "Column8": 84.29
+ },
+ {
+  "Column1": "Jan-24",
+  "OPT": "OPT",
+  "86.05": 83.45,
+  "Column8": 83.45
+ },
+ {
+  "Column1": "Feb-24",
+  "OPT": "OPT",
+  "86.05": 82.7,
+  "Column8": 82.7
+ },
+ {
+  "Column1": "Mar-24",
+  "OPT": "OPT",
+  "86.05": 81.98,
+  "Column8": 81.98
+ },
+ {
+  "Column1": "Apr-24",
+  "OPT": "OPT",
+  "86.05": 81.32,
+  "Column8": 81.32
+ },
+ {
+  "Column1": "May-24",
+  "OPT": "OPT",
+  "86.05": 80.72,
+  "Column8": 80.72
+ },
+ {
+  "Column1": "Jun-24",
+  "OPT": "OPT",
+  "86.05": 80.34,
+  "Column8": 80.34
+ },
+ {
+  "Column1": "Jul-24",
+  "OPT": "OPT",
+  "86.05": 79.69,
+  "Column8": 79.69
+ },
+ {
+  "Column1": "Aug-24",
+  "OPT": "OPT",
+  "86.05": 79.12,
+  "Column8": 79.12
+ },
+ {
+  "Column1": "Sep-24",
+  "OPT": "OPT",
+  "86.05": 78.52,
+  "Column8": 78.52
+ },
+ {
+  "Column1": "Oct-24",
+  "OPT": "OPT",
+  "86.05": 78.33,
+  "Column8": 78.33
+ },
+ {
+  "Column1": "Nov-24",
+  "OPT": "OPT",
+  "86.05": 77.49,
+  "Column8": 77.49
+ },
+ {
+  "Column1": "Dec-24",
+  "OPT": "OPT",
+  "86.05": 77.38,
+  "Column8": 77.38
+ },
+ {
+  "Column1": "Jan-25",
+  "OPT": "OPT",
+  "86.05": 76.85666666666667,
+  "Column5": -0.5233333333333311,
+  "Column8": 76.85666666666667
+ },
+ {
+  "Column1": "Feb-25",
+  "OPT": "OPT",
+  "86.05": 76.33333333333334,
+  "Column8": 76.33333333333334
+ },
+ {
+  "Column1": "Mar-25",
+  "OPT": "OPT",
+  "86.05": 75.81,
+  "Column8": 75.81
+ },
+ {
+  "Column1": "Apr-25",
+  "OPT": "OPT",
+  "86.05": 75.44333333333333,
+  "Column5": -0.3666666666666695,
+  "Column8": 75.44333333333333
+ },
+ {
+  "Column1": "May-25",
+  "OPT": "OPT",
+  "86.05": 75.07666666666665,
+  "Column8": 75.07666666666665
+ },
+ {
+  "Column1": "Jun-25",
+  "OPT": "OPT",
+  "86.05": 74.71,
+  "Column8": 74.71
+ },
+ {
+  "Column1": "Jul-25",
+  "OPT": "OPT",
+  "86.05": 74.58,
+  "Column5": 0.12999999999999545,
+  "Column8": 74.58
+ },
+ {
+  "Column1": "Aug-25",
+  "OPT": "OPT",
+  "86.05": 74.45,
+  "Column8": 74.45
+ },
+ {
+  "Column1": "Sep-25",
+  "OPT": "OPT",
+  "86.05": 73.99000000000001,
+  "Column5": -0.46000000000000085,
+  "Column8": 73.99000000000001
+ },
+ {
+  "Column1": "Oct-25",
+  "OPT": "OPT",
+  "86.05": 73.53,
+  "Column8": 73.53
+ },
+ {
+  "Column1": "Nov-25",
+  "OPT": "OPT",
+  "86.05": 73.07,
+  "Column8": 73.07
+ },
+ {
+  "Column1": "EC 2025",
+  "OPT": "OPT",
+  "86.05": 72.61
+ }
+]
 }
