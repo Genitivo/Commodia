@@ -91,191 +91,196 @@
     },
     {
         "Forecast Date": "02\/01\/2025",
-        "WTI": 71.35,
-        "BRENT": 74.05
+        "WTI": 71.53,
+        "BRENT": 75.44
     },
     {
         "Forecast Date": "03\/01\/2025",
         "WTI": 68.24,
-        "COMMODIA - WTI": 68.24,
-        "NYMEX": 68.24,
-        "BRENT": 70.7,
-        "ICE": 70.7,
-        "COMMODIA - BRENT": 70.7
+        "BRENT": 72.74
     },
     {
         "Forecast Date": "04\/01\/2025",
-        "COMMODIA - WTI": 67.549266668146,
-        "NYMEX": 69.76,
-        "ICE": 73.16,
-        "COMMODIA - BRENT": 71.7389784405079
+        "WTI": 62.14,
+        "COMMODIA - WTI": 62.14,
+        "NYMEX": 62.14,
+        "BRENT": 68.13,
+        "ICE": 68.13,
+        "COMMODIA - BRENT": 68.13
     },
     {
         "Forecast Date": "05\/01\/2025",
-        "COMMODIA - WTI": 67.3668536067368,
-        "NYMEX": 69.34,
-        "ICE": 73.08,
-        "COMMODIA - BRENT": 72.4249829774555
+        "COMMODIA - WTI": 62.884550676142,
+        "NYMEX": 56.15,
+        "ICE": 65.45,
+        "COMMODIA - BRENT": 68.5695074136277
     },
     {
         "Forecast Date": "06\/01\/2025",
-        "COMMODIA - WTI": 67.3025788762479,
-        "NYMEX": 68.87,
-        "ICE": 72.58,
-        "COMMODIA - BRENT": 72.6494652492866
+        "COMMODIA - WTI": 62.8028652521157,
+        "NYMEX": 58.29,
+        "ICE": 61.71,
+        "COMMODIA - BRENT": 68.8873921429363
     },
     {
         "Forecast Date": "07\/01\/2025",
-        "COMMODIA - WTI": 67.4656459128323,
-        "NYMEX": 68.38,
-        "ICE": 72.05,
-        "COMMODIA - BRENT": 72.8163763452814
+        "COMMODIA - WTI": 62.8967979095431,
+        "NYMEX": 57.83,
+        "ICE": 59.2,
+        "COMMODIA - BRENT": 69.0161016958248
     },
     {
         "Forecast Date": "08\/01\/2025",
-        "COMMODIA - WTI": 67.6459202170216,
-        "NYMEX": 67.86,
-        "ICE": 71.51,
-        "COMMODIA - BRENT": 72.9964211313398
+        "COMMODIA - WTI": 63.1651206131162,
+        "NYMEX": 57.48,
+        "ICE": 58.88,
+        "COMMODIA - BRENT": 69.252486251551
     },
     {
         "Forecast Date": "09\/01\/2025",
-        "COMMODIA - WTI": 67.9547038577563,
-        "NYMEX": 67.34,
-        "ICE": 71.12,
-        "COMMODIA - BRENT": 73.494416797318
+        "COMMODIA - WTI": 63.2923772777822,
+        "NYMEX": 57.21,
+        "ICE": 58.72,
+        "COMMODIA - BRENT": 69.5192862086506
     },
     {
         "Forecast Date": "10\/01\/2025",
-        "COMMODIA - WTI": 68.3573605607482,
-        "NYMEX": 66.85,
-        "ICE": 70.7,
-        "COMMODIA - BRENT": 73.7413470571415
+        "COMMODIA - WTI": 63.851750795488,
+        "NYMEX": 57.05,
+        "ICE": 58.75,
+        "COMMODIA - BRENT": 69.9755997002844
     },
     {
         "Forecast Date": "11\/01\/2025",
-        "COMMODIA - WTI": 68.7230727994905,
-        "NYMEX": 66.43,
-        "ICE": 70.33,
-        "COMMODIA - BRENT": 74.3830910180436
+        "COMMODIA - WTI": 63.9185629829086,
+        "NYMEX": 57,
+        "ICE": 58.92,
+        "COMMODIA - BRENT": 70.3795090177063
     },
     {
         "Forecast Date": "12\/01\/2025",
-        "COMMODIA - WTI": 69.0032819516542,
-        "NYMEX": 66.06,
-        "ICE": 70,
-        "COMMODIA - BRENT": 74.8603850825456
+        "COMMODIA - WTI": 64.4383196743452,
+        "NYMEX": 57.04,
+        "ICE": 59.09,
+        "COMMODIA - BRENT": 71.2600979419992
     },
     {
         "Forecast Date": "01\/01\/2026",
-        "COMMODIA - WTI": 69.0855634127894,
-        "NYMEX": 65.73,
-        "ICE": 69.69,
-        "COMMODIA - BRENT": 74.9838801854065
+        "COMMODIA - WTI": 64.6945141671523,
+        "NYMEX": 57.11,
+        "ICE": 59.24,
+        "COMMODIA - BRENT": 71.8051191948084
     },
     {
         "Forecast Date": "02\/01\/2026",
-        "COMMODIA - WTI": 69.4702403560187,
-        "NYMEX": 65.45,
-        "ICE": 69.28,
-        "COMMODIA - BRENT": 75.4992116760121
+        "COMMODIA - WTI": 64.8433177525496,
+        "NYMEX": 57.21,
+        "ICE": 59.43,
+        "COMMODIA - BRENT": 72.2297293239929
     },
     {
         "Forecast Date": "03\/01\/2026",
-        "COMMODIA - WTI": 69.8624878336002,
-        "NYMEX": 65.23,
-        "ICE": 69.06,
-        "COMMODIA - BRENT": 75.8092733526849
+        "COMMODIA - WTI": 65.394123116213,
+        "NYMEX": 57.34,
+        "ICE": 59.63,
+        "COMMODIA - BRENT": 72.9394526548674
     },
     {
         "Forecast Date": "04\/01\/2026",
-        "COMMODIA - WTI": 70.2637919193806,
-        "NYMEX": 65.03,
-        "ICE": 68.93333333333334,
-        "COMMODIA - BRENT": 76.2052508622284
+        "COMMODIA - WTI": 65.7783238826296,
+        "NYMEX": 57.49,
+        "ICE": 59.86,
+        "COMMODIA - BRENT": 73.5184216906599
     },
     {
         "Forecast Date": "05\/01\/2026",
-        "COMMODIA - WTI": 70.4286099898023,
-        "NYMEX": 64.87,
-        "ICE": 68.80666666666667,
-        "COMMODIA - BRENT": 76.5080189422395
+        "COMMODIA - WTI": 66.2298525035722,
+        "NYMEX": 57.66,
+        "ICE": 60.19,
+        "COMMODIA - BRENT": 74.1284703474792
     },
     {
         "Forecast Date": "06\/01\/2026",
-        "COMMODIA - WTI": 70.7790427224841,
-        "NYMEX": 64.73,
-        "ICE": 68.68,
-        "COMMODIA - BRENT": 76.8249410174048
+        "COMMODIA - WTI": 66.7388658607326,
+        "NYMEX": 57.83,
+        "ICE": 60.21,
+        "COMMODIA - BRENT": 74.6813783462262
     },
     {
         "Forecast Date": "07\/01\/2026",
-        "COMMODIA - WTI": 71.2688446809733,
-        "NYMEX": 64.55,
-        "ICE": 68.56666666666668,
-        "COMMODIA - BRENT": 77.2831997265889
+        "COMMODIA - WTI": 67.1472729883293,
+        "NYMEX": 57.94,
+        "ICE": 60.391666666666666,
+        "COMMODIA - BRENT": 75.233124872041
     },
     {
         "Forecast Date": "08\/01\/2026",
-        "COMMODIA - WTI": 71.50800808348,
-        "NYMEX": 64.39,
-        "ICE": 68.45333333333335,
-        "COMMODIA - BRENT": 77.6423441827457
+        "COMMODIA - WTI": 67.8083580785237,
+        "NYMEX": 58.06,
+        "ICE": 60.57333333333333,
+        "COMMODIA - BRENT": 75.8299114056805
     },
     {
         "Forecast Date": "09\/01\/2026",
-        "COMMODIA - WTI": 71.8550151839412,
-        "NYMEX": 64.24,
-        "ICE": 68.34000000000002,
-        "COMMODIA - BRENT": 77.9451135061719
+        "COMMODIA - WTI": 68.2933560288625,
+        "NYMEX": 58.18,
+        "ICE": 60.754999999999995,
+        "COMMODIA - BRENT": 76.3352428975591
     },
     {
         "Forecast Date": "10\/01\/2026",
-        "COMMODIA - WTI": 72.6533236145249,
-        "NYMEX": 64.11,
-        "ICE": 68.22666666666669,
-        "COMMODIA - BRENT": 78.5615086598966
+        "COMMODIA - WTI": 68.8678897715719,
+        "NYMEX": 58.3,
+        "ICE": 60.93666666666666,
+        "COMMODIA - BRENT": 76.9837366416747
     },
     {
         "Forecast Date": "11\/01\/2026",
-        "COMMODIA - WTI": 72.6403278633508,
-        "NYMEX": 64.02,
-        "ICE": 68.11333333333336,
-        "COMMODIA - BRENT": 78.8748929384805
+        "COMMODIA - WTI": 69.5621651779899,
+        "NYMEX": 58.45,
+        "ICE": 61.118333333333325,
+        "COMMODIA - BRENT": 77.5030723641296
     },
     {
         "Forecast Date": "12\/01\/2026",
-        "COMMODIA - WTI": 73.0472669802119,
-        "NYMEX": 63.92,
-        "ICE": 68,
-        "COMMODIA - BRENT": 79.1241000967052
+        "COMMODIA - WTI": 70.1116439685498,
+        "NYMEX": 58.61,
+        "ICE": 61.3,
+        "COMMODIA - BRENT": 78.1275757253266
     },
     {
         "Forecast Date": "01\/01\/2027",
-        "COMMODIA - WTI": 73.4017790332369,
-        "NYMEX": 63.78,
-        "ICE": 67.86,
-        "COMMODIA - BRENT": 79.3891445219787
+        "COMMODIA - WTI": 70.4636576887365,
+        "NYMEX": 58.71,
+        "ICE": 61.461666666666666,
+        "COMMODIA - BRENT": 78.5631272267206
     },
     {
         "Forecast Date": "02\/01\/2027",
-        "COMMODIA - WTI": 73.8455181349192,
-        "NYMEX": 63.67,
-        "ICE": 67.72,
-        "COMMODIA - BRENT": 80.0740480348682
+        "COMMODIA - WTI": 70.8888642844862,
+        "NYMEX": 58.79,
+        "ICE": 61.623333333333335,
+        "COMMODIA - BRENT": 78.8594740556714
     },
     {
         "Forecast Date": "03\/01\/2027",
-        "COMMODIA - WTI": 73.97,
-        "NYMEX": 63.56,
-        "ICE": 67.58,
-        "COMMODIA - BRENT": 80.06
+        "COMMODIA - WTI": 71.7168553425814,
+        "NYMEX": 58.89,
+        "ICE": 61.785,
+        "COMMODIA - BRENT": 79.582649606954
     },
     {
         "Forecast Date": "04\/01\/2027",
-        "COMMODIA - WTI": 74.15,
-        "NYMEX": 63.45,
-        "ICE": 67.42,
-        "COMMODIA - BRENT": 80.05
+        "COMMODIA - WTI": 71.8757460469591,
+        "NYMEX": 59.01,
+        "ICE": 61.94666666666667,
+        "COMMODIA - BRENT": 79.7120585200281
+    },
+    {
+        "Forecast Date": "05\/01\/2027",
+        "COMMODIA - WTI": 71.97,
+        "NYMEX": 59.15,
+        "ICE": 62.10833333333334,
+        "COMMODIA - BRENT": 79.92
     }
 ]
